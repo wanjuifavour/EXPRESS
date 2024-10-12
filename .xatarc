@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Favour-Wanjui-s-workspace-t8uadi.us-east-1.xata.sh/db/learning-database",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
